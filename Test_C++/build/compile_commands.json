@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/t0ti20/Desktop/VS-Code/Native/Test_C++/build",
+  "command": "/usr/bin/g++  -I/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Test_CPP -I/home/t0ti20/Desktop/VS-Code/Native/Test_C++/PUBLIC -I/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Include -g -std=gnu++20 -o CMakeFiles/Test_CPP.dir/Source/Company.cpp.o -c /home/t0ti20/Desktop/VS-Code/Native/Test_C++/Source/Company.cpp",
+  "file": "/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Source/Company.cpp"
+},
+{
+  "directory": "/home/t0ti20/Desktop/VS-Code/Native/Test_C++/build",
+  "command": "/usr/bin/g++  -I/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Test_CPP -I/home/t0ti20/Desktop/VS-Code/Native/Test_C++/PUBLIC -I/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Include -g -std=gnu++20 -o CMakeFiles/Test_CPP.dir/Source/Company_Test.cpp.o -c /home/t0ti20/Desktop/VS-Code/Native/Test_C++/Source/Company_Test.cpp",
+  "file": "/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Source/Company_Test.cpp"
+},
+{
+  "directory": "/home/t0ti20/Desktop/VS-Code/Native/Test_C++/build",
+  "command": "/usr/bin/g++  -I/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Test_CPP -I/home/t0ti20/Desktop/VS-Code/Native/Test_C++/PUBLIC -I/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Include -g -std=gnu++20 -o CMakeFiles/Test_CPP.dir/Source/Main.cpp.o -c /home/t0ti20/Desktop/VS-Code/Native/Test_C++/Source/Main.cpp",
+  "file": "/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Source/Main.cpp"
+}
+]

@@ -1,0 +1,2 @@
+/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/CMake/FindMyPackage.cmake
+/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/CMake/FindMyPackage-debug.cmake

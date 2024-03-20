@@ -1,0 +1,7 @@
+/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/build/CMakeFiles/Mathlib.dir
+/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/build/CMakeFiles/edit_cache.dir
+/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/build/CMakeFiles/rebuild_cache.dir
+/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/build/CMakeFiles/list_install_components.dir
+/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/build/CMakeFiles/install.dir
+/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/build/CMakeFiles/install/local.dir
+/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/build/CMakeFiles/install/strip.dir

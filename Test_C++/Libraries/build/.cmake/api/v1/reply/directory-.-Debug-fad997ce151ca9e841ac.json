@@ -1,0 +1,84 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 23,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/build",
+			"paths" : 
+			[
+				"libMathlib.so.1.0",
+				"libMathlib.so.1"
+			],
+			"targetId" : "Mathlib::@6890427a1f51a3e7e1df",
+			"targetIndex" : 0,
+			"targetInstallNamelink" : "skip",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/build",
+			"paths" : 
+			[
+				"libMathlib.so"
+			],
+			"targetId" : "Mathlib::@6890427a1f51a3e7e1df",
+			"targetIndex" : 0,
+			"targetInstallNamelink" : "only",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/CMake",
+			"exportName" : "MyPackage",
+			"exportTargets" : 
+			[
+				{
+					"id" : "Mathlib::@6890427a1f51a3e7e1df",
+					"index" : 0
+				}
+			],
+			"paths" : 
+			[
+				"CMakeFiles/Export/_home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/CMake/FindMyPackage.cmake"
+			],
+			"type" : "export"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}

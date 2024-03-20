@@ -1,0 +1,5 @@
+if(EXISTS "/home/t0ti20/Desktop/VS-Code/Native/Test_C/build/Main[1]_tests.cmake")
+  include("/home/t0ti20/Desktop/VS-Code/Native/Test_C/build/Main[1]_tests.cmake")
+else()
+  add_test(Main_NOT_BUILT Main_NOT_BUILT)
+endif()

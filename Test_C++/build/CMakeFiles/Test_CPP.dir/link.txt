@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Test_CPP.dir/Source/Company.cpp.o CMakeFiles/Test_CPP.dir/Source/Company_Test.cpp.o CMakeFiles/Test_CPP.dir/Source/Main.cpp.o -o Test_CPP  -Wl,-rpath,/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/build ../Libraries/build/libMathlib.so.1.0 

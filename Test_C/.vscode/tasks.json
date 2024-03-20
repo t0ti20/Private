@@ -1,0 +1,40 @@
+{
+	"version":"2.0.0",
+	"tasks":
+	[
+		{
+			"label":"Run Executable C",
+			"command":"${fileDirname}/${fileBasenameNoExtension}",
+			"dependsOn":["Build With GCC"],
+			"dependsOrder": "sequence",
+			"presentation": 
+			{
+				"reveal": "always",
+				"echo": false,
+				"showReuseMessage": false,
+				"clear": true
+			},
+			"group":{"kind":"build","isDefault": true},
+			"problemMatcher": []
+		},
+		{
+			"type":"cppbuild",
+			"label":"Build With GCC",
+			"command":"/usr/bin/gcc",
+			"args": 
+			[
+				"-fdiagnostics-color=always",
+				"-g",
+				"-Werror",
+				"${fileDirname}/*.c",
+				"-o",
+				"${fileDirname}/${fileBasenameNoExtension}"
+			],
+			"options": {"cwd": "${fileDirname}"},
+			"problemMatcher": ["$gcc"],
+			"group": "build",
+			"detail": "compiler: /usr/bin/gcc",
+			"presentation": {"showReuseMessage": false}
+		}
+	]
+}

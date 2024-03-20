@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/build",
+  "command": "/usr/bin/g++ -DMathlib_EXPORTS -I/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/Mathlib -I/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/PUBLIC -I/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/Include -g -fPIC -std=gnu++11 -o CMakeFiles/Mathlib.dir/Source/Math.cpp.o -c /home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/Source/Math.cpp",
+  "file": "/home/t0ti20/Desktop/VS-Code/Native/Test_C++/Libraries/Source/Math.cpp"
+}
+]
