@@ -1,4 +1,2 @@
 # Private
-upda
-d
-d
+upd
